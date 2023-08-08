@@ -1,1 +1,5 @@
-console.log("holamundo")
+function Hola(camada){
+    console.log("Hola"+camada);
+}
+
+Hola("Camada")
